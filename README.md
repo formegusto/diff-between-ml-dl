@@ -6,7 +6,7 @@
 
 [What is AI? / Basic Questions](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/index.html)
 
-> **It is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable. - John McCarthy**
+**It is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable. - John McCarthy**
 
 **인공지능(AI; Artificial Intelligence)**이라는 용어의 기원은 **1956년 다트머스 회의(Dartmouth Conference)라는 학술회의**로 부터 시작되었다. 하지만 **기술적인 관점으로 인공지능의 역사**를 돌아봤을 때 **딥러닝(DL; Deep Learning)의 핵심 개념인 인공신경망(ANN; Artificial Neural Network)의 등장은 인공지능이라는 용어의 등장보다 빨랐다.**
 
