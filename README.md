@@ -8,7 +8,7 @@
 
 > **It is the science and engineering of making intelligent machines, especially intelligent computer programs. It is related to the similar task of using computers to understand human intelligence, but AI does not have to confine itself to methods that are biologically observable. - John McCarthy**
 
-**인공지능(AI; Artificial Intelligence)**이라는 용어의 기원은 **1956년 다트머스 회의(Dartmouth Conference)라는 학술회의**로 부터 시작되었다. 하지만 **기술적인 관점으로 인공지능의 역사**를 돌아봤을 때 **딥러닝(DL; Deep Learning)의 핵심 개념인 인공신경망(ANN; Artificial Neural Network)의 등장은 인공지능이라는 용어의 등장보다 빨랐다.**
+인공지능(AI; Artificial Intelligence)이라는 용어의 기원은 **1956년 다트머스 회의(Dartmouth Conference)라는 학술회의**로 부터 시작되었다. 하지만 **기술적인 관점으로 인공지능의 역사**를 돌아봤을 때 **딥러닝(DL; Deep Learning)의 핵심 개념인 인공신경망(ANN; Artificial Neural Network)의 등장은 인공지능이라는 용어의 등장보다 빨랐다.**
 
 1943년, [McCulloch, Warren S., and Walter Pitts.의 “A logical calculus of the ideas immanent in nervous activity”](https://doi.org/10.1007/BF02478259) 논문에서 **인공신경망(ANN; Artificial Neural Network)의 수학적 모델이 제안**되었으며, 1958년, [Rosenblatt F.의 “The perceptron: A probabilistic model for information storage and organization in the brain”](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0042519)란 논문에서 **실질적인 인공신경망 모델인 퍼셉트론(Perceptron)이라는 선형 분류를 수행할 수 있는 순방향 신경망(FFNN; Feed-Forward Neural Network)이 제안**되었다.
 
